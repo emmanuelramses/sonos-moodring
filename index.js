@@ -1,8 +1,8 @@
 'use strict';
 
 /* Edit these variables to suit your needs */
-var PLAYER_NAME = 'family room';
-var LIGHT_SETTINGS = [{light:"LivingColors 1",color:1},{light:"LivingColors 2",color:2}];
+var PLAYER_NAME = 'Living Room';
+var LIGHT_SETTINGS = [{light:"Hue Downlight 1",color:1},{light:"Hue Downlight 2",color:2},{light:"Hue Downlight 3",color:1},{light:"Hue Downlight 4",color:2},{light:"Hue Downlight 5",color:1},{light:"Hue Downlight 6",color:1}];
 var ERROR_OR_NO_RESULT_COLOR = [{color:"#330033"}];
 var NEXT_SONG_CACHING_ENABLED = true;
 var APP_USERNAME = "sonos-moodring";
